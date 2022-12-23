@@ -1,0 +1,6 @@
+.sidebar {
+	@apply p-layout;
+	&::-webkit-scrollbar {
+		width: 0;
+	  }
+}
